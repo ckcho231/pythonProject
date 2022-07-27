@@ -16,3 +16,4 @@ class FourCal:
 a = FourCal()
 a.setdata(4, 2)
 print(a.add())
+print("hello world")
