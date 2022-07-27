@@ -11,6 +11,8 @@ class FourCal:
         result = self.fir + self.sec
         return result
 
+
+
 a = FourCal()
 a.setdata(4, 2)
 print(a.add())
