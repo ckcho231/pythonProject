@@ -27,3 +27,16 @@ def ask_ok(prompt, retries=4, reminder='Please try again!'):
             raise ValueError('invalid user response')
         print(reminder)
 
+class fourCal:
+    def __init__(self):
+        self.fir = None
+        self.sec = None
+
+    def setdata(self, fir, sec):
+        self.fir = fir
+        self.sec = sec
+
+    def add(self):
+        result = self.fir + self.sec
+        return result
+
