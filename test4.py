@@ -16,3 +16,6 @@ while True:                            # while 반복문 조건이 무조건 Tru
 # while 반복문을 빠져 나왔으니 결과를 출력 합니다.
 print("정답입니다!")
 print(count, "번 만에 정답을 맞추셨군요~~~")
+
+
+print("이것은 PC에서 작성하였습니다.");
