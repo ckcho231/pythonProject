@@ -1,6 +1,12 @@
 def addNum(a, b):
     return f"{a} + {b} = {a + b}"
 
+#
+# 여기에 함수 설명을 작성한다
+# 함수 이름 : 피보머시기
+# 작성자
+# 최초 작성 일시 :
+
 
 def fib(n):  # write Fibonacci series up to n
     """Print a Fibonacci series up to n."""
